@@ -13,6 +13,7 @@
 		0FE9F4332649D318006CBBD4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FE9F4312649D318006CBBD4 /* Main.storyboard */; };
 		0FE9F4352649D31B006CBBD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0FE9F4342649D31B006CBBD4 /* Assets.xcassets */; };
 		0FE9F4382649D31B006CBBD4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FE9F4362649D31B006CBBD4 /* LaunchScreen.storyboard */; };
+		0FE9F441264A931C006CBBD4 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0FE9F440264A931C006CBBD4 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0FE9F4342649D31B006CBBD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0FE9F4372649D31B006CBBD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0FE9F4392649D31B006CBBD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FE9F440264A931C006CBBD4 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				0FE9F4312649D318006CBBD4 /* Main.storyboard */,
 				0FE9F4342649D31B006CBBD4 /* Assets.xcassets */,
 				0FE9F4362649D31B006CBBD4 /* LaunchScreen.storyboard */,
+				0FE9F440264A931C006CBBD4 /* start.txt */,
 				0FE9F4392649D31B006CBBD4 /* Info.plist */,
 			);
 			path = "Project5 - WordScramble";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0FE9F4382649D31B006CBBD4 /* LaunchScreen.storyboard in Resources */,
+				0FE9F441264A931C006CBBD4 /* start.txt in Resources */,
 				0FE9F4352649D31B006CBBD4 /* Assets.xcassets in Resources */,
 				0FE9F4332649D318006CBBD4 /* Main.storyboard in Resources */,
 			);
